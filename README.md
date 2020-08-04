@@ -1,2 +1,2 @@
 # TriMeshCNN
-Triangle Mesh CNN
+Coming soon
